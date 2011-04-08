@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FVTwaatEngineGlobalHeader.h"
 #import "OAToken.h"
 #import "OAMutableURLRequest.h"
 #import "OAConsumer.h"
